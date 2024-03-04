@@ -1,1 +1,1 @@
-Foi utilizado uma alternativa gratuita para a API do Twitter
+Foi utilizado uma alternativa gratuita no lugar da API do Twitter
